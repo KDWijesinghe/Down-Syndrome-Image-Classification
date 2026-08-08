@@ -2,11 +2,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/img1.png" width="100%"><br>
+      <img src="img/img1.png" width="100%"><br>
       <b>Original Image</b>
     </td>
     <td align="center">
-      <img src="images/imge2.png" width="100%"><br>
+      <img src="img/img2.png" width="100%"><br>
       <b>Model Prediction</b>
     </td>
   </tr>
